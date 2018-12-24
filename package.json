@@ -1,22 +1,24 @@
 {
-  "name": "logisticinfotech/testpackage-li-org",
+  "name": "@logisticinfotech/testpackage-li-org",
   "version": "1.0.0",
-  "description": "testpackage by chintan",
+  "description": "test organization package",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chintan13/testpackage.git"
+    "url": "git+https://github.com/logisticinfotech/testpackage-li-org.git"
   },
   "keywords": [
-    "testpackage"
+    "test",
+    "organization",
+    "package"
   ],
   "author": "chintan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/chintan13/testpackage/issues"
+    "url": "https://github.com/logisticinfotech/testpackage-li-org/issues"
   },
-  "homepage": "https://github.com/chintan13/testpackage#readme"
+  "homepage": "https://github.com/logisticinfotech/testpackage-li-org#readme"
 }
