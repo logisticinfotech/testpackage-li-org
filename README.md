@@ -1,7 +1,7 @@
 # testpackage
 
 # Steps 1
-    $ npm init
+    $ npm init --scope=logisticinfotech
 
     this will create package.json
 
@@ -23,4 +23,5 @@
     make sure your package name is unique. Other wise it will give error like
     You do not have permission to publish "testpackage". Are you logged in as the correct user? : testpackage
 
-    $ npm publish
+    $ npm publish --access=public
+
